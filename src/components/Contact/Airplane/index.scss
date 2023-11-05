@@ -1,0 +1,26 @@
+.airplane-container {
+    z-index: 0;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 20%;
+    right: 20%;
+    bottom: auto;
+    left: auto;
+    margin: auto;
+  
+    svg {
+      width: 800%;
+      height: auto;
+      bottom: 0;
+      transform: rotateZ(-10deg) !important;
+
+      path {
+        fill: #a04924;
+      }
+
+    }
+  }
+  
+  
+  
