@@ -30,7 +30,7 @@ const Projects = () => {
                 <hr className='main-break'></hr>
                 <div className='scroll project-list'>
                     <div className='project-desc project1'>
-                        <a href='https://github.com/thenateshow/nathaniel-greene-website' target="_blank" rel="noopener noreferrer"><h2><b><u>Personal Website</u></b></h2></a>
+                        <a href='https://github.com/thenateshow/nathaniel-greene-dot-org' target="_blank" rel="noopener noreferrer"><h2><b><u>Personal Website</u></b></h2></a>
                         <h4>React / SCSS / HTML</h4>
                         <p>This website is a visualization of my resume, projects, and development abilities. As my project experience grows, the page will continue to showcase my new work. It is also a place for me to implement new web design features as I learn and experiment with them.</p>
                     </div>
