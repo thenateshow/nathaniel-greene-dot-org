@@ -5,6 +5,7 @@ import Home from './components/Home';
 import About from './components/About';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
+import Quotogram from './components/Quotogram';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="contact" element={<Contact />} />
         <Route path="projects" element={<Projects />} />
       </Route>
+      <Route path="quotogram" element={<Quotogram />} />
     </Routes>
     </>
   );
